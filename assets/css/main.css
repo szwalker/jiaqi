@@ -3894,3 +3894,23 @@ input, select, textarea {
 			}
 
 		}
+
+/* my added part*/
+.education{
+	display: table;
+	height: 100%;
+	width: 100%;
+}
+
+.schoolDetail {
+	display: table-cell;
+	text-align: center;
+	vertical-align: top;
+	width: 50%;
+}
+
+.univLogo{
+	/*height: 200px;*/
+	height: 15%;
+
+}
